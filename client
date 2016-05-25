@@ -1,0 +1,9 @@
+#! /usr/bin/env python3.5
+import client
+
+
+def main():
+    client.run_evolution_client()
+
+if __name__ == "__main__":
+    main()

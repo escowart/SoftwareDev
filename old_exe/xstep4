@@ -1,0 +1,10 @@
+#! /usr/bin/env python3.5
+from old_exe import xstep4
+
+
+def main():
+    xstep4.main()
+
+
+if __name__ == "__main__":
+    main()

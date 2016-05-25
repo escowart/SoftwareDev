@@ -1,0 +1,10 @@
+#! /usr/bin/env python3.5
+import server
+
+
+def run_evolution():
+    server.run_evolution_server()
+
+
+if __name__ == "__main__":
+    run_evolution()

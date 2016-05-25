@@ -1,0 +1,335 @@
+[
+  [
+    [
+      ["id", 1],
+      ["species",
+        [
+          [
+            ["food", 0],
+            ["body", 7],
+            ["population", 7],
+            ["traits", ["carnivore"]]
+          ]
+        ]
+      ],
+      ["bag", 15],
+        [
+          [
+            [3, "fertile"],
+            [-3, "hard-shell"],
+            [-3, "carnivore"]
+          ]
+        ]
+    ],
+    [
+      ["id", 2],
+      ["species",
+        [
+          [
+            ["food", 0],
+            ["body", 7],
+            ["population", 1],
+            ["traits", ["scavenger", "foraging", "cooperation"]]
+          ],
+          [
+            ["food", 0],
+            ["body", 7],
+            ["population", 2],
+            ["traits", ["scavenger", "foraging", "cooperation"]]
+          ],
+          [
+            ["food", 0],
+            ["body", 7],
+            ["population", 5],
+            ["traits", ["scavenger", "foraging", "cooperation"]]
+          ],
+          [
+            ["food", 0],
+            ["body", 7],
+            ["population", 6],
+            ["traits", ["scavenger", "foraging", "cooperation"]]
+          ],
+          [
+            ["food", 0],
+            ["body", 7],
+            ["population", 7],
+            ["traits", ["scavenger", "foraging", "cooperation"]]
+          ],
+          [
+            ["food", 0],
+            ["body", 6],
+            ["population", 6],
+            ["traits", ["cooperation"]]
+          ],
+          [
+            ["food", 0],
+            ["body", 6],
+            ["population", 1],
+            ["traits", ["cooperation"]]
+          ],
+          [
+            ["food", 0],
+            ["body", 6],
+            ["population", 2],
+            ["traits", []]
+          ]
+        ]
+      ],
+      ["bag", 6],
+        [
+          [
+            [1, "scavenger"],
+            [-4, "carnivore"],
+            [3, "horns"]
+          ]
+        ]
+    ],
+    [
+      ["id", 3],
+      ["species",
+        [
+          [
+            ["food", 3],
+            ["body", 7],
+            ["population", 5],
+            ["traits", ["fat-tissue"]],
+            ["fat-food", 4]
+          ],
+          [
+            ["food", 2],
+            ["body",3],
+            ["population",3],
+            ["traits",["fat-tissue"]],
+            ["fat-food", 3]
+          ],
+          [
+            ["food", 7],
+            ["body", 7],
+            ["population", 7],
+            ["traits", ["carnivore"]]
+          ]
+        ]
+      ],
+      ["bag", 0],
+        [
+          [
+            [-1, "fertile"],
+            [-1, "hard-shell"],
+            [-3, "ambush"]
+          ]
+        ]
+    ],
+    [
+      ["id", 4],
+      ["species",
+        [
+          [
+            ["food", 2],
+            ["body", 2],
+            ["population", 6],
+            ["traits", ["carnivore", "ambush"]]
+          ],
+          [
+            ["food", 0],
+            ["body", 7],
+            ["population", 7],
+            ["traits", ["burrowing", "long-neck"]]
+          ]
+        ]
+      ],
+      ["bag", 15],
+        [
+          [
+            [1, "fertile"],
+            [0, "hard-shell"],
+            [3, "ambush"]
+          ]
+        ]
+    ],
+    [
+      ["id", 5],
+      ["species",
+        [
+          [
+            ["food", 0],
+            ["body", 7],
+            ["population", 7],
+            ["traits", ["carnivore"]]
+          ]
+        ]
+      ],
+      ["bag", 3],
+        [
+          [
+            [1, "fat-tissue"],
+            [0, "herding"],
+            [2, "foraging"]
+          ]
+        ]
+    ],
+    [
+      ["id", 6],
+      ["species",
+        [
+          [
+            ["food", 0],
+            ["body", 3],
+            ["population", 2],
+            ["traits", ["fat-tissue"]],
+            ["fat-food", 2]
+          ],
+          [
+            ["food", 0],
+            ["body", 7],
+            ["population", 7],
+            ["traits", ["climbing","hard-shell", "scavenger"]]
+          ],
+          [
+            ["food", 0],
+            ["body", 5],
+            ["population", 2],
+            ["traits", ["fat-tissue"]],
+            ["fat-food", 1]
+          ],
+          [
+            ["food", 0],
+            ["body", 7],
+            ["population", 7],
+            ["traits", ["cooperation","warning-call", "symbiosis"]]
+          ],
+          [
+            ["food", 3],
+            ["body", 3],
+            ["population", 4],
+            ["traits", ["fat-tissue"]],
+            ["fat-food", 1]
+          ]
+        ]
+      ],
+      ["bag", 5],
+      ["cards",
+        [
+          [
+            [1, "symbiosis"],
+            [0, "ambush"],
+            [2, "long-neck"]
+          ]
+        ]
+      ]
+    ],
+    [
+      ["id", 7],
+      ["species",
+        [
+          [
+            ["food", 5],
+            ["body", 7],
+            ["population", 7],
+            ["traits", ["fat-tissue", "carnivore"]],
+            ["fat-food", 6]
+          ],
+          [
+            ["food", 3],
+            ["body", 7],
+            ["population", 4],
+            ["traits", ["fertile","horns", "symbiosis"]]
+          ],
+          [
+            ["food", 0],
+            ["body", 2],
+            ["population", 2],
+            ["traits", ["fat-tissue", "foraging"]],
+            ["fat-food", 1]
+          ],
+          [
+            ["food", 1],
+            ["body", 7],
+            ["population", 2],
+            ["traits", ["cooperation","long-neck"]]
+          ],
+          [
+            ["food", 2],
+            ["body", 3],
+            ["population", 4],
+            ["traits", ["fat-tissue"]],
+            ["fat-food", 3]
+          ],
+          [
+            ["food", 3],
+            ["body", 4],
+            ["population", 6],
+            ["traits", ["pack-hunting","warning-call", "symbiosis"]]
+          ],
+          [
+            ["food", 3],
+            ["body", 2],
+            ["population", 4],
+            ["traits", ["fat-tissue", "ambush"]],
+            ["fat-food", 1]
+          ]
+        ]
+      ],
+      ["bag", 30],
+      ["cards",
+        [
+          [
+            [1, "long-neck"],
+            [1, "ambush"]
+          ]
+        ]
+      ]
+    ],
+    [
+      ["id", 8],
+      ["species",
+        [
+          [
+            ["food", 5],
+            ["body", 5],
+            ["population", 5],
+            ["traits", ["fat-tissue", "foraging", "climbing"]],
+            ["fat-food", 3]
+          ],
+          [
+            ["food", 3],
+            ["body", 7],
+            ["population", 4],
+            ["traits", ["long-neck","pack-hunting", "fat-tissue"]]
+          ],
+          [
+            ["food", 0],
+            ["body", 2],
+            ["population", 2],
+            ["traits", ["fat-tissue", "climbing"]],
+            ["fat-food", 2]
+          ],
+          [
+            ["food", 1],
+            ["body", 7],
+            ["population", 2],
+            ["traits", ["cooperation","long-neck", "hard-shell"]]
+          ]
+        ]
+      ],
+      ["bag", 10],
+      ["cards",
+        [
+          [
+            [1, "carnivore"],
+            [2, "ambush"]
+          ]
+        ]
+      ]
+    ]
+  ],
+  100,
+  [
+    [-3, "burrowing"],
+    [-2, "burrowing"],
+    [-1, "burrowing"],
+    [0, "burrowing"],
+    [1, "burrowing"],
+    [2, "burrowing"],
+    [3, "burrowing"]
+  ]
+]

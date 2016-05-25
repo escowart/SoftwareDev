@@ -1,0 +1,25 @@
+#! /usr/bin/env python3.5
+
+import sys
+
+import old_exe.main
+
+
+def run_evolution():
+    num_players_str = ""
+    if len(sys.argv) < NUM_PLAYERS_ARGV_LEN:
+        num_players_str = input("Enter Number of Players: ")
+    else:
+        num_players_str = sys.argv[1]
+
+    old_exe.main.main(int(num_players_str))
+
+
+def run_all_evo():
+    for i in range(MIN_NUM_PLAYERS, MAX_NUM_PLAYERS + 1):
+        print("Evolution with {} Players:".format(i))
+        old_exe.main.main(i)
+        print("\n")
+
+if __name__ == "__main__":
+    run_evolution()

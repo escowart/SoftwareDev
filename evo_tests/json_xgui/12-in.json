@@ -1,0 +1,42 @@
+[
+  [
+    [
+      ["id", 1],
+      ["species",
+        [
+          [
+            ["food", 0],
+            ["body", 7],
+            ["population", 7],
+            ["traits", ["carnivore"]]
+          ],
+          [
+            ["food", 1],
+            ["body", 0],
+            ["population", 1],
+            ["traits", ["warning-call", "burrowing"]]
+          ],
+          [
+            ["food", 0],
+            ["body", 7],
+            ["population", 7],
+            ["traits", ["carnivore"]]
+          ]
+        ]
+      ],
+      ["bag", 0]
+    ],
+    [
+      ["id", 2],
+      ["species", []],
+      ["bag", 0]
+    ],
+    [
+      ["id", 3],
+      ["species", []],
+      ["bag", 0]
+    ]
+  ],
+  100,
+  []
+]

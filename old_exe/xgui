@@ -1,0 +1,10 @@
+#! /usr/bin/env python3.5
+from old_exe import xgui
+
+
+def main():
+    xgui.main()
+
+
+if __name__ == "__main__":
+    main()
